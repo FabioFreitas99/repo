@@ -5,3 +5,6 @@ Função envia email
 	Correção na função envia email
 
 Nova linha
+
+Funcionalidade de XX
+		Modificação
