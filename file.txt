@@ -1,6 +1,7 @@
 linha 1
 linha 2
 linha 3
+<<<<<<< HEAD
 Função envia email
 	Correção na função envia email
 
@@ -8,3 +9,6 @@ Nova linha
 
 Funcionalidade de XX
 		Modificação
+=======
+Função envia email
+>>>>>>> parent of 3bad6b8... Merge remote-tracking branch 'origin/envia-email'
